@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15cc4631.chunk.css",
+    "main.js": "/static/js/main.ce5a8e42.chunk.js",
+    "main.js.map": "/static/js/main.ce5a8e42.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ffb40742.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ffb40742.js.map",
+    "static/js/2.07fd8499.chunk.js": "/static/js/2.07fd8499.chunk.js",
+    "static/js/2.07fd8499.chunk.js.map": "/static/js/2.07fd8499.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dfe4b729650e893d39adb1b85c397c31.js": "/precache-manifest.dfe4b729650e893d39adb1b85c397c31.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.15cc4631.chunk.css.map": "/static/css/main.15cc4631.chunk.css.map",
+    "static/js/2.07fd8499.chunk.js.LICENSE.txt": "/static/js/2.07fd8499.chunk.js.LICENSE.txt",
+    "static/media/Hero.jpeg": "/static/media/Hero.414ba6aa.jpeg",
+    "static/media/Hero2.jpeg": "/static/media/Hero2.a208a6fd.jpeg",
+    "static/media/lolo.webp": "/static/media/lolo.73dbf275.webp",
+    "static/media/SectionA.css": "/static/media/staticmap.110c3feb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffb40742.js",
+    "static/js/2.07fd8499.chunk.js",
+    "static/css/main.15cc4631.chunk.css",
+    "static/js/main.ce5a8e42.chunk.js"
+  ]
+}
